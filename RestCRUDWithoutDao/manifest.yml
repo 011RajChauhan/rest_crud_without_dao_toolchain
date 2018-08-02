@@ -1,8 +1,0 @@
----
-applications:
- - name: RestCrudWithoutDao
-   random-route: true
-   path: target/RestCrudWithoutDao.war
-   memory: 32M
-   instances: 1
-   buildpack: https://github.com/cloudfoundry/java-buildpack.git
