@@ -3,5 +3,5 @@ applications:
  - name: RestCrudWithoutDao
    random-route: true
    path: target/RestCrudWithoutDao.war
-   memory: 64M
+   memory: 32M
    instances: 1
